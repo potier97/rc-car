@@ -65,6 +65,8 @@ The goal is to create a responsive, reliable, and minimal RC vehicle using:
 <p align="center">
   <img src="./assets/290.webp" width="205" alt="RC Car" />
 </p>
+
+
 ---
 
 ## Connection
