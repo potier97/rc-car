@@ -1,5 +1,7 @@
 <p align="center">
-  <a href="http://nipoanz.com/" target="blank"><img src="https://github.com/potier97/snake-game/raw/main/assets/image.png" width="300" alt="NPA Logo" /></a>
+  <a href="http://nipoanz.com/" target="_blank" rel="noopener noreferrer">
+  <img src="https://github.com/potier97/snake-game/raw/main/assets/image.png" width="300" alt="NPA Logo" />
+  </a>
 </p>
 
 # RC CAR
