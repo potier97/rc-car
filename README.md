@@ -11,6 +11,10 @@ RC Car with Arduino Nano and 315 MHz RF Remote
 
 ![Alt Text](./assets/car_2.gif)
 
+<p align="center">
+  <img src="./assets/car_2.gif" width="500" alt="RC Car" />
+</p>
+
 
 
 ---
