@@ -97,8 +97,8 @@ The goal is to create a responsive, reliable, and minimal RC vehicle using:
 
 1. Clone the repository:
 ```bash
-git clone https://github.com/your-username/rc-car-yk04.git
-cd rc-car-yk04
+git clone https://github.com/potier97/rc-car.git
+cd rc-car
 ```
 
 2. Open the project in the Arduino IDE.
