@@ -58,7 +58,7 @@ The goal is to create a responsive, reliable, and minimal RC vehicle using:
 - Power Supply (e.g., 7.4V Li-Ion battery pack)
 
 <p align="center">
-  <img src="./assets/components.jpg" width="300" alt="Components" />
+  <img src="./assets/components.png" width="300" alt="Components" />
 </p>
 
 
